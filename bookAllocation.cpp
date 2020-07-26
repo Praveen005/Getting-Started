@@ -23,6 +23,7 @@ bool validMin(int* pages , int b, int s, int mid) {
 	return true;
 }
 int main() {
+// you can comment out following 4 lines if your compiler throws some error/doesn't give any output/ online judge says wrong answer
 #ifndef ONLINE_JUDGE
 	freopen("input.txt" , "r" , stdin);
 	freopen("output.txt" , "w" , stdout);
